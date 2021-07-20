@@ -1,5 +1,6 @@
 import './style.scss';
 
+import './components/main-logo/logo.component.js'
 import './components/header/header.component.js';
 import './components/footer/footer.component.js';
 import './components/example-component/example.component.js';

@@ -1,0 +1,8 @@
+@import '../../assets/variable';
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background: $black;
+    padding: 20px;
+}
