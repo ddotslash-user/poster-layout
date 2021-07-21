@@ -9,7 +9,7 @@
     border: 2px solid $green;
     padding: 5px 10px;
     font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 1.1em;
+    font-size: 1.1rem;
     color: $white;
 
     &:hover {
@@ -19,6 +19,10 @@
     } 
 }
 
-.button--black {
+.button--t-black {
     color: $black;
+}
+
+.button--b-red {
+    border-color: $red;
 }
