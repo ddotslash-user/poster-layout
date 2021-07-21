@@ -7,6 +7,6 @@ import './components/header/header.component.js';
 import './components/footer/footer.component.js';
 
 import './pages/home/home.component.js';
-import './pages/about/about.component.js';
+import './pages/post/post.component.js';
 
 import './router.js';
