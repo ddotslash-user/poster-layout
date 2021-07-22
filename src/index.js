@@ -8,5 +8,6 @@ import './components/footer/footer.component.js';
 
 import './pages/home/home.component.js';
 import './pages/post/post.component.js';
+import './pages/create-post/create-post.component.js';
 
 import './router.js';

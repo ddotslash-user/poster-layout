@@ -13,10 +13,8 @@
     color: $white;
 
     &:hover {
-        .button__text {
-            text-decoration: underline;
-        }
-    } 
+        text-decoration: underline;
+    }
 }
 
 .button--t-black {
