@@ -1,6 +1,7 @@
 const routes = {
     '/': { name: 'app-home' },
-    '/about': { name: 'app-about'}
+    '/post': { name: 'app-post'},
+    '/create-post': {name: 'app-create-post'}
 }
 
 class Router extends HTMLElement {
